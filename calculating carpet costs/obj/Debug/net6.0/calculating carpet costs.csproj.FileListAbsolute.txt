@@ -1,0 +1,15 @@
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\bin\Debug\net6.0\calculating carpet costs.exe
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\bin\Debug\net6.0\calculating carpet costs.deps.json
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\bin\Debug\net6.0\calculating carpet costs.runtimeconfig.json
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\bin\Debug\net6.0\calculating carpet costs.dll
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\bin\Debug\net6.0\calculating carpet costs.pdb
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.csproj.AssemblyReference.cache
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.AssemblyInfoInputs.cache
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.AssemblyInfo.cs
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.csproj.CoreCompileInputs.cache
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.dll
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\refint\calculating carpet costs.dll
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.pdb
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\calculating carpet costs.genruntimeconfig.cache
+D:\c-sharp-stuff\microSharpProjects\learning-cSharp-micro-projects\calculating carpet costs\obj\Debug\net6.0\ref\calculating carpet costs.dll
